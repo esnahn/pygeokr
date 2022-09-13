@@ -1,0 +1,25 @@
+# wheel
+
+# numpy
+# pandas
+# matplotlib
+
+# geopandas
+# cartopy
+# dask
+# dask-geopandas
+
+
+### install these with:  pip install -r .\requirements.txt
+
+notebook
+ipykernel
+
+black
+wcwidth
+tabulate[widechars]
+
+pyarrow
+
+seaborn
+

@@ -1,0 +1,7 @@
+dask-geopandas
+geopandas  # for all of its dependencies
+cartopy
+numpy
+pandas
+
+# matplotlib-base  # not to install pyqt with it

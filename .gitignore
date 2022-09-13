@@ -1,0 +1,16 @@
+.env
+venv
+__pycache__
+
+*.zip
+*.csv
+*.part
+*.parquet
+*.txt
+!*requirements.txt
+
+*.url
+*.pptx
+*.pdf
+
+config.py
