@@ -4,12 +4,14 @@ __pycache__
 
 *.zip
 *.csv
+*.xls
+*.xlsx
 *.part
 *.parquet
 *.txt
 !*requirements.txt
 
-*.url
+# *.url
 *.pptx
 *.pdf
 
