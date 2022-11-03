@@ -2,7 +2,7 @@
 
 # numpy
 # pandas
-# matplotlib
+matplotlib>=3.6  # for the font substitution
 
 # geopandas
 # cartopy

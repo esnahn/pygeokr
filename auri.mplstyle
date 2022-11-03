@@ -23,7 +23,7 @@ boxplot.capprops.linewidth: 0.2
 boxplot.medianprops.linewidth: 0.2
 boxplot.meanprops.linewidth: 0.2
 
-font.family: KoPubDotum Medium
+font.family: sans-serif, KoPubDotum Medium
 font.size: 8.0
 
-figure.constrained_layout.use: True
+# figure.constrained_layout.use: True  # causes breakage
