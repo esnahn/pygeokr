@@ -15,4 +15,6 @@ __pycache__
 *.pptx
 *.pdf
 
+output
+
 config.py
